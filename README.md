@@ -1,0 +1,1 @@
+# intune-detected-apps-report
